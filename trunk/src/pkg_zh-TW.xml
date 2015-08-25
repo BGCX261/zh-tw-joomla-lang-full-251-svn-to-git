@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="2.5">
+	<name>joomla 2.5 繁體中文 Traditional Chinese</name>
+	<tag>zh-TW</tag>
+	<packagename>zh-TW</packagename>
+	<version>2.5.0v1</version>
+	<creationDate>2012-02-07</creationDate>
+	<author>canis</author>
+	<authorEmail>canistk@gmail.com</authorEmail>
+	<authorUrl>http://www.clonefactor.com</authorUrl>
+	<copyright>Copyright ! who ?</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>基於國內 Derek Joe 朋友的繁體版, 由香港的 Canis 手動調整, 真希望能直接下載喇!囧....</description>
+ <files>
+        <file type="language" client="site" id="zh-TW">site_zh-TW.zip</file>
+        <file type="language" client="admin" id="zh-TW">admin_zh-TW.zip</file>
+  </files>
+</extension>
